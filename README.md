@@ -4,7 +4,7 @@ we can create a model to recognise ASL letters in gestures. To do so, follow the
 
 ## Clone the repository and install requirements
 ```sh 
-git clone 
+git clone https://github.com/sssarana/sign-language-recognition.git
 pip install -r requirements.txt
 ```
 ## Adjust paths
