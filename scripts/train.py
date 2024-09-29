@@ -43,7 +43,7 @@ if __name__ == "__main__":
     input_shape = (224, 224, 3)
     num_classes = 29
     batch_size = 32
-    epochs = 12
+    epochs = 40
     learning_rate = 0.0001
     data_dir = 'data\\raw\\asl_alphabet_train'
 
